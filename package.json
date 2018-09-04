@@ -1,10 +1,9 @@
 {
-  "name": "emq_prometheus_exporter",
-  "version": "1.0.0",
+  "name": "@kiot-communications/emqtt_prometheus_exporter",
+  "version": "1.0.1",
   "description": "A Prometheus Exporter for Emqttd Metrics (UnOfficial)",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "keywords": [
     "prometheus",
     "emqttd"
@@ -20,5 +19,13 @@
   },
   "devDependencies": {
     "standard": "^12.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiot-innovations/emqtt_prometheus_exporter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kiot-innovations/emqtt_prometheus_exporter/issues"
+  },
+  "homepage": "https://github.com/kiot-innovations/emqtt_prometheus_exporter#readme"
 }
