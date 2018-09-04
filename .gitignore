@@ -1,0 +1,5 @@
+node_modules/
+yarn-error.log
+packags-lock.json
+.env
+config/config.js
